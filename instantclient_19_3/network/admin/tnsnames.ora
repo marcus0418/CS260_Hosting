@@ -1,0 +1,10 @@
+djangocs260_high = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=ctgnjia4tw7vec2_djangocs260_high.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+djangocs260_low = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=ctgnjia4tw7vec2_djangocs260_low.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+djangocs260_medium = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=ctgnjia4tw7vec2_djangocs260_medium.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+djangocs260_tp = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=ctgnjia4tw7vec2_djangocs260_tp.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+djangocs260_tpurgent = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=ctgnjia4tw7vec2_djangocs260_tpurgent.atp.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
